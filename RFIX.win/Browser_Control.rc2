@@ -1,0 +1,8 @@
+/* *****************************************************************************
+// Resource description
+// ****************************************************************************/
+
+#include "Browser_Control.grc.rc2"
+#include "Browser_ControlFix.grc.rc2"
+
+1	ICON    LOADONCALL MOVEABLE IMPURE  ACAP.ico
